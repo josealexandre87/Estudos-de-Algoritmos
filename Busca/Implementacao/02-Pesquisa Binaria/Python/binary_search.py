@@ -9,9 +9,9 @@ def binary_search(arr, target):
         if arr[mid] == target:
             return mid  # Retorna o índice do elemento encontrado
         elif arr[mid] < target: #Busca na metade esquerda
-            left = mid + 1 #Faz o left ter um novo valor, eliminando a metade direita
+            left = mid + 1 # O target estava na parte da direita da lista (chute baixo)
         else:
-            right = mid -1 #Faz o right ter um novo valor, eliminando a metade esqueda
+            right = mid -1 # O target estava na parte da esquerda da lista (chute alto)
     return -1
 
 #Exemplo de Execução
