@@ -8,8 +8,8 @@ A pesquisa linear é um algoritmo simples que percorre um array ou lista element
 
 ### 🛠️ Complexidade:
 
-Melhor caso: O(1) (quando o elemento está na primeira posição).
-Pior caso: O(n) (quando o elemento está no final ou não está na lista).
+- Melhor caso: O(1) (quando o elemento está na primeira posição).
+- Pior caso: O(n) (quando o elemento está no final ou não está na lista).
 
 ### 📌 Explicação
 

@@ -8,8 +8,8 @@ A pesquisa binária é um algoritmo de busca eficiente que reduz o espaço de bu
 
 ### 🛠️ Complexidade:
 
-Melhor caso: O(1) (se o elemento está no meio da lista).
-Caso médio e pior caso: O(log n) (porque reduz o tamanho da lista pela metade a cada passo).
+- Melhor caso: O(1) (se o elemento está no meio da lista).
+- Caso médio e pior caso: O(log n) (porque reduz o tamanho da lista pela metade a cada passo).
 
 ### 📌 Explicação
 
